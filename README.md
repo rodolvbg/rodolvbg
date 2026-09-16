@@ -37,4 +37,6 @@ I've contributed to [django-import-export](https://github.com/django-import-expo
 
 #### 📫 Find me
 
-[LinkedIn](https://www.linkedin.com/in/rodolvbg/) · [Twitter/X](https://x.com/rodolvbg) · [Instagram](https://instagram.com/rodolvbg)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolvbg/)
+[![Twitter/X](https://img.shields.io/badge/-Twitter%2FX-000000?style=flat&logo=x&logoColor=white)](https://x.com/rodolvbg)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rodolvbg)
