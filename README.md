@@ -12,7 +12,7 @@ I've contributed to [django-import-export](https://github.com/django-import-expo
 
 #### 📦 Projects
 
-| | |
+| Project | Description |
 |---|---|
 | **[django-admin-fk-links](https://github.com/rodolvbg/django-admin-fk-links)** | Reusable Django admin mixin that turns ForeignKey fields into direct links to their related admin change views. |
 | **[django-admin-radio-select](https://github.com/rodolvbg/django-admin-radio-select)** | Synchronize BooleanFields across Django Admin inline rows as mutually exclusive radio button groups. |
