@@ -1,7 +1,7 @@
 ### Hi, I'm Rodolfo 👋
 
 Software Engineer specializing in full-stack web development.
-Originally from Holguín, Cuba 🇨🇺, now based in Andalucía, Spain 🇪🇸. Django is my main area of
+🇨🇺 🇪🇸 Originally from Holguín, Cuba , now based in Andalucía, Spain . Django is my main area of
 expertise — I also work with Vue on the frontend side.
 
 🎯 Currently working toward getting a PR merged into Django itself.
