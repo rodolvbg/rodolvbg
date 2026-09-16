@@ -36,4 +36,4 @@ I've contributed to [django-import-export](https://github.com/django-import-expo
 
 #### 📫 Find me
 
-[LinkedIn](https://www.linkedin.com/in/rodolvbg/) · [BECERRA IT SL](https://becerrait.com)
+[LinkedIn](https://www.linkedin.com/in/rodolvbg/)
