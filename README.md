@@ -18,10 +18,11 @@ I've contributed to [django-import-export](https://github.com/django-import-expo
 | Project | Description |
 |---|---|
 | **[django-admin-fieldsets-extra](https://github.com/rodolvbg/django-admin-fieldsets-extra)** | Interleave fieldsets and inlines in the Django admin change form, and save a single fieldset on its own. |
-| **[django-admin-inline-controls](https://github.com/rodolvbg/django-admin-inline-controls)** | Pagination, filters, sortable columns, actions, totals and a save button for Django admin inlines. |
+| **[django-admin-inline-controls](https://github.com/rodolvbg/django-admin-inline-controls)** | Pagination, filters, sortable columns, bulk actions and a save button for Django admin inlines, refreshed in place. |
 | **[django-admin-select-filter](https://github.com/rodolvbg/django-admin-select-filter)** | Select2-powered admin list filters for Django, including an async foreign-key filter. |
-| **[django-admin-tables](https://github.com/rodolvbg/django-admin-tables)** | Exclusive radio fields across rows, foreign keys as links and hideable columns for Django admin changelists and inlines, in one mixin. |
+| **[django-admin-tables](https://github.com/rodolvbg/django-admin-tables)** | Extras for Django admin changelists and inlines, in one mixin: exclusive radio fields, foreign keys as links, hideable and responsive columns, totals and row actions. |
 | **[django-form-alpine](https://github.com/rodolvbg/django-form-alpine)** | Integrate Alpine.js into Django forms declaratively using widget attrs and resolvers. |
+| **[django-form-matrix](https://github.com/rodolvbg/django-form-matrix)** | A form field to fill a table of rows and columns, with a form field in every cell, plus a ready-made permission matrix. |
 
 #### 🛠️ How they're built
 
