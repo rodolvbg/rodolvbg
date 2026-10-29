@@ -23,6 +23,7 @@ I've contributed to [django-import-export](https://github.com/django-import-expo
 | **[django-admin-suggest](https://github.com/rodolvbg/django-admin-suggest)** | Suggestions as one types in the Django admin: the changelist's search box suggests objects, opens the one chosen, and offers to add what isn't found. |
 | **[django-admin-tables](https://github.com/rodolvbg/django-admin-tables)** | Extras for Django admin changelists and inlines, in one mixin: exclusive radio fields, foreign keys as links, hideable and responsive columns, totals, row actions, selectable rows and fields that save themselves. |
 | **[django-chat-ui](https://github.com/rodolvbg/django-chat-ui)** | One chat interface for WhatsApp, chatbots, internal chat and "contact us" widgets: web components that speak Matrix, with a Django homeserver for them, and AI answers shown as they're written. |
+| **[django-ec-calendar](https://github.com/rodolvbg/django-ec-calendar)** | A calendar for the Django admin and your pages, with EventCalendar: objects by date, opened with a click, added by selecting dates, moved and resized by dragging. |
 | **[django-form-alpine](https://github.com/rodolvbg/django-form-alpine)** | Integrate Alpine.js into Django forms declaratively using widget attrs and resolvers. |
 | **[django-form-matrix](https://github.com/rodolvbg/django-form-matrix)** | A form field to fill a table of rows and columns, with a form field in every cell, plus a ready-made permission matrix. |
 
